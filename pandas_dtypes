@@ -1,0 +1,7 @@
+http://pbpython.com/pandas_dtypes.html  
+
+In order to convert data types in pandas, there are three basic options:  
+
+* Use astype() to force an appropriate dtype  
+* Create a custom function to convert the data  
+* Use pandas functions such as to_numeric() or to_datetime()  
