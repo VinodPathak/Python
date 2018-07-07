@@ -1,8 +1,10 @@
 # Python
 Python helps
 
+### Python Script Header  
+https://medium.com/@rukavina.andrei/how-to-write-a-python-script-header-51d3cec13731  
 
-# Computational Statistics with Python  
+### Computational Statistics with Python  
 https://github.com/cliburn/Computational-statistics-with-Python/tree/master/Lectures  
 
 ### Statistics and Probability in data science using python  
