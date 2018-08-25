@@ -4,3 +4,4 @@
 ## Links  
 * https://www.machinelearningplus.com/python/101-pandas-exercises-python/  
 * https://github.com/tdpetrou/Learn-Pandas  
+* https://towardsdatascience.com/be-a-more-efficient-data-scientist-today-master-pandas-with-this-guide-ea362d27386  
