@@ -9,3 +9,4 @@
 ### display all text in a cell without truncation
 * pd.set_option('display.max_colwidth', -1)
 * http://songhuiming.github.io/pages/2017/04/02/jupyter-and-pandas-display/
+* https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3  
