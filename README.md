@@ -1,6 +1,16 @@
 # Python
 Python helps
 
+### Jupyter Notebook nbextension
+Prior To installing nbextension:
+1. pip install -e jupyter-contrib-core*
+2. pip install -e jupyter_highlight_selected_word*
+3. pip install -e jupyter_latex_envs*
+4. pip install -e jupyter_nbextensions_configurator*
+5. pip install -e jupyter_contrib_nbextensions*
+
+Note: * Download from Github
+
 ### Kaggle Python  
 https://www.kaggle.com/learn/python
 
